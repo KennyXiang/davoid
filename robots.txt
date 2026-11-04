@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kennyxiang.github.io/davoid/sitemap.xml
